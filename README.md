@@ -8,4 +8,4 @@
 
 
 
-[DeepLink Test](applinks:sb-dev.penngineering.io?mode=developer)
+[DeepLink Test](https://sb-dev.penngineering.io?mode=developer)
